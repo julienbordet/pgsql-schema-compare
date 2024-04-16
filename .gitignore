@@ -138,3 +138,4 @@ dmypy.json
 test/*.txt
 test/data
 .*.pickle
+*.sql
